@@ -19,4 +19,6 @@ Open [http://localhost:3000](http://localhost:3000) to view sthe app in the brow
 JSON for the data is obtained using link
 https://api.jsonbin.io/b/60c7e65598ca6c704eb01d4b/2
 
+or refer to data.json in the repo.
+
 
