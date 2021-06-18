@@ -1,0 +1,33 @@
+.profileimg{
+    height: 125px;
+    width: 125px;
+    border: 1px solid gray;
+    border-radius: 50%;
+}
+.addtionalDetails{
+    display: none;
+}
+.plus{
+    background-image:url(../../images/plus.JPG);
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
+.minus{
+    background-image:url(../../images/minus.JPG);
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
+.tagholder{
+    width: 35% !important;
+}
+.tag {
+    display: inline-block;
+    height: 7vh;
+    background-color: lightgray;
+    margin-top: 1vh;
+    margin-left: 1vw;
+    padding: 7px;
+    width: auto;
+    align-items: center;
+    border-radius: 6px;
+}

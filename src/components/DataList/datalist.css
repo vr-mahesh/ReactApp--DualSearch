@@ -1,0 +1,30 @@
+#data{
+    width:60%;
+    background-color: white;
+    height: 90vh;
+    margin-top: 5vh;
+    box-shadow: 0 1px 1px #888;
+    border-radius: 10px;
+}
+.eachrow{
+    margin-bottom:5vh;
+}
+.inputbox{
+    width: 100%;
+    border:none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    height: 10vh;
+}
+.DivHolder{
+ margin-top: 5vh;
+ height: 65vh !important;
+ overflow-x: hidden !important;
+}
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+body{
+    background-color: lightgray;
+}
